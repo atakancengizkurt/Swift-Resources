@@ -6,11 +6,12 @@ Swift için takip edilebilir kaynakları sizlerle paylaşıyorum. Faydalanmanız
 
 Türkçe Kaynaklar [Video]
 -------------
- - [Batuhan Saygılı](https://www.youtube.com/channel/UCHT7EaPiP0AItdTF7E9eTCw)
+ - [Late Night Muhabbetleri](https://www.youtube.com/channel/UCjVMKSrhru8KSirbfzzFHpw)
+ - [Mobil Uygulama Geliştirme Xcode Swift](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA)
  - [Kerim Çağlar](https://www.youtube.com/channel/UCKwEqVrO0t4WYOmN5kvmczA)
+ - [Batuhan Saygılı](https://www.youtube.com/channel/UCHT7EaPiP0AItdTF7E9eTCw)
  - [Gio Code House](https://www.youtube.com/channel/UCF4b2yQei_5CcRwMeYG-hig)
  - [Burak Gökçınar](https://www.youtube.com/channel/UCz0MSOy_CIt32ISVz4KPnFA)
- - [Late Night Muhabbetleri](https://www.youtube.com/channel/UCjVMKSrhru8KSirbfzzFHpw)
 
 Türkçe Bloglar 
 -------------
@@ -25,6 +26,7 @@ Türkçe Podcast'ler
  
 Yabancı Kaynaklar [Video]
 -------------
+ - [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
  - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
  - [Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) 
  - [Mark Moeykens](https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg)
