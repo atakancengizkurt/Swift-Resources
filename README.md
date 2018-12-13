@@ -1,6 +1,6 @@
 # Swift-Resources
 
-Swift için takip edilebilir kaynakları sizlerle paylaşıyorum. Faydalanmanız dileğiyle.
+Swift için takip edilebilir kaynakları sizlerle paylaşıyorum. Faydalanmanız dileğiyle. Kaynak eklemek isterseniz Pull requests gönderiniz.
 
 ----------
 
