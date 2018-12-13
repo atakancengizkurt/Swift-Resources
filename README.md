@@ -1,6 +1,4 @@
 # Swift-Resources
-Swift Kaynakları
-Hoş Geldiniz
 ===================
 
 
