@@ -1,6 +1,4 @@
 # Swift-Resources
-===================
-
 
 Swift için takip edilebilir kaynakları sizlerle paylaşıyorum. Faydalanmanız dileğiyle.
 
