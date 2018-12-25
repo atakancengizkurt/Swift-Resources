@@ -15,6 +15,8 @@ Türkçe Kaynaklar [Video]
 
 Türkçe Bloglar 
 -------------
+- [Kenan Atmaca](http://kenanatmaca.com/)
+- [iOS Notları](iosnotlari.com)
 - [Sefa Ayçicek](http://sefaaycicek.com/)
 - [Kod5](http://kod5.org/category/programlama/swift/)
 - [Halil Özel](https://medium.com/@halilozel1903)
