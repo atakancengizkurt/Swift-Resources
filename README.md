@@ -18,6 +18,7 @@ Türkçe Bloglar
 - [Kenan Atmaca](http://kenanatmaca.com/)
 - [iOS Notları](https://iosnotlari.com/)
 - [Sefa Ayçicek](http://sefaaycicek.com/)
+- [Barış Uyar](http://www.barisuyar.com)
 - [Kod5](http://kod5.org/category/programlama/swift/)
 - [Halil Özel](https://medium.com/@halilozel1903)
 - [Atakan Cengiz KURT](https://www.atakancengizkurt.com)
