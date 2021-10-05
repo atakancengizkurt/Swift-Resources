@@ -13,6 +13,8 @@ Türkçe Kaynaklar [Video]
  - [Gio Code House](https://www.youtube.com/channel/UCF4b2yQei_5CcRwMeYG-hig)
  - [Burak Gökçınar](https://www.youtube.com/channel/UCz0MSOy_CIt32ISVz4KPnFA)
  - [NSIstanbul Community](https://www.youtube.com/channel/UC4EltqGnSy6t5AjMficZv5w)
+ - [Kaan Vural](https://www.youtube.com/user/kaan0061)
+ - [Mobile Growth Istanbul](https://www.youtube.com/c/MobileGrowthIstanbul)
 
 Türkçe Bloglar 
 -------------
@@ -30,13 +32,15 @@ Türkçe Podcast'ler
  
 Yabancı Kaynaklar [Video]
 -------------
+ - [Kavsoft](https://www.youtube.com/c/Kavsoft)
+ - [Paul Hudson](https://www.youtube.com/c/PaulHudson)
+ - [Rebeloper](https://www.youtube.com/c/Rebeloper)
  - [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
- - [Kilo Loco](https://www.youtube.com/channel/UCv75sKQFFIenWHrprnrR9aA)
+ - [Kilo Loco](https://www.youtube.com/c/KiloLoco)
  - [Code With Chris](https://www.youtube.com/user/CodeWithChris)
- - [Paul Hudson](https://www.youtube.com/channel/UCmJi5RdDLgzvkl3Ly0DRMlQ)
- - [Lets Build That App](https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA)
- - [Jared Davidson](https://www.youtube.com/channel/UCDIBBmkZIB2hjBsk1hUImdA) 
- - [Mark Moeykens](https://www.youtube.com/channel/UChH6WbyYeX0INJjrK2-6WSg)
+ - [Lets Build That App](https://www.youtube.com/c/LetsBuildThatApp)
+ - [Jared Davidson](https://www.youtube.com/c/Archetapp) 
+ - [Mark Moeykens](https://www.youtube.com/c/MarkMoeykens)
  - [The Swift Guy](https://www.youtube.com/channel/UC-d1NWv5IWtIkfH47ux4dWA)
  - [Brian Advent](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw)
  - [iOS Compressed](https://www.youtube.com/channel/UCqndzS37vNHVrqLVAKEP2HQ)
@@ -53,6 +57,21 @@ Yabancı Kaynaklar [Video]
  - [Swift Hub](https://www.youtube.com/channel/UCrnb1e8Krh8_X1gsxysq2HA)
  - [The Smell of Code](https://www.youtube.com/channel/UCr3QUqbwdiKaSQ_W_2feYbQ)
  - [Vasil Nunev](https://www.youtube.com/channel/UCAeJCNyDzN1NxKD2IdCC7Pw)
+ - [App Masters](https://www.youtube.com/c/AppMasters) 
+ - [Credo Academy](https://www.youtube.com/c/CredoAcademy) 
+ - [Essential Developer](https://www.youtube.com/c/EssentialDeveloper) 
+ - [Eugene Berezin](https://www.youtube.com/c/EugeneBerezin) 
+ - [iOS Academy](https://www.youtube.com/c/iOSAcademy)
+ - [Mayank Gupta](https://www.youtube.com/c/mayankIndia)
+ - [Vincent Pradeilles](https://www.youtube.com/c/VincentPradeilles)
+ - [AppStuff](https://www.youtube.com/channel/UCHaYcy9627HPl6YTwKrYBAw)
+ - [Coding With Tom](https://www.youtube.com/channel/UCX97eb4jTsAyaDSqEvwZlRw)
+ - [Karin Prater](https://www.youtube.com/c/PhysicsNerdDev)
+ - [Krass Iankov](https://www.youtube.com/c/KrassIankov)
+ - [Let's Learn Swift](https://www.youtube.com/channel/UC_0srkcd_tioJrb11wBCdEQ)
+ - [Mike Mikina](https://www.youtube.com/channel/UCZVk_jOoXCPL9c6YKuMDJjA)
+ - [Paul Solt](https://www.youtube.com/c/PaulSolt)
+ - [Scott Smith](https://www.youtube.com/c/ScottSmithDev)
 
 Yabancı Bloglar 
 -------------
