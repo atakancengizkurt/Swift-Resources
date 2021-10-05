@@ -6,6 +6,7 @@ Swift için takip ettiğim kaynakları sizlerle paylaşıyorum. Faydalanmanız d
 
 Türkçe Kaynaklar [Video]
 -------------
+ - [BTK Akademi](https://www.btkakademi.gov.tr/portal/)
  - [Late Night Muhabbetleri](https://www.youtube.com/channel/UCjVMKSrhru8KSirbfzzFHpw)
  - [Mobil Uygulama Geliştirme Xcode Swift](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA)
  - [Kerim Çağlar](https://www.youtube.com/channel/UCKwEqVrO0t4WYOmN5kvmczA)
@@ -21,7 +22,6 @@ Türkçe Kaynaklar [Video]
 Türkçe Bloglar 
 -------------
 - [Kenan Atmaca](http://kenanatmaca.com/)
-- [iOS Cafe](https://ios.cafe/)
 - [Sefa Ayçicek](http://sefaaycicek.com/)
 - [Barış Uyar](http://www.barisuyar.com)
 - [Kod5](http://kod5.org/category/programlama/swift/)
@@ -83,7 +83,10 @@ Yabancı Kaynaklar [Video]
 
 Yabancı Bloglar 
 -------------
+ - [Hacking With Swift](https://www.hackingwithswift.com/)
  - [Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
+ - [iOS Cafe](https://ios.cafe/)
+ - [Swift With Majid](https://swiftwithmajid.com/)
  - [App Coda](http://www.appcoda.com/tutorials/ios/)
  - [iOScreator](https://www.ioscreator.com/)
  - [Raywenderlich](https://www.raywenderlich.com/category/swift)
