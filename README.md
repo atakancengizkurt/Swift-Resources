@@ -15,6 +15,8 @@ Türkçe Kaynaklar [Video]
  - [NSIstanbul Community](https://www.youtube.com/channel/UC4EltqGnSy6t5AjMficZv5w)
  - [Kaan Vural](https://www.youtube.com/user/kaan0061)
  - [Mobile Growth Istanbul](https://www.youtube.com/c/MobileGrowthIstanbul)
+ - [TALİP BÖKE](https://www.youtube.com/channel/UChVG3xjDbK2Dpdgx_Wc6OZw)
+ - [Turker Bilge](https://www.youtube.com/c/TurkerBilge)
 
 Türkçe Bloglar 
 -------------
@@ -35,7 +37,7 @@ Yabancı Kaynaklar [Video]
  - [Kavsoft](https://www.youtube.com/c/Kavsoft)
  - [Paul Hudson](https://www.youtube.com/c/PaulHudson)
  - [Rebeloper](https://www.youtube.com/c/Rebeloper)
- - [Sean Allen](https://www.youtube.com/channel/UCbTw29mcP12YlTt1EpUaVJw)
+ - [Sean Allen](https://www.youtube.com/c/SeanAllen)
  - [Kilo Loco](https://www.youtube.com/c/KiloLoco)
  - [Code With Chris](https://www.youtube.com/user/CodeWithChris)
  - [Lets Build That App](https://www.youtube.com/c/LetsBuildThatApp)
@@ -72,6 +74,12 @@ Yabancı Kaynaklar [Video]
  - [Mike Mikina](https://www.youtube.com/channel/UCZVk_jOoXCPL9c6YKuMDJjA)
  - [Paul Solt](https://www.youtube.com/c/PaulSolt)
  - [Scott Smith](https://www.youtube.com/c/ScottSmithDev)
+ - [SooninCodingChallenge](https://www.youtube.com/c/SooninCodingChallenge)
+ - [SWIFT Hub Learning](https://www.youtube.com/c/SWIFTHub)
+ - [Swift Kat Code Factory](https://www.youtube.com/channel/UCursmZEXw28Uq1jQhzBrLzw)
+ - [Swift Tutorials](https://www.youtube.com/channel/UC8UlXXAlPiBsV-rKvMh_T0g)
+ - [Vasil Blanco-Nunev](https://www.youtube.com/c/VasilNunev)
+ - [Xcoding with Alfian](https://www.youtube.com/c/XcodingwithAlfian)
 
 Yabancı Bloglar 
 -------------
