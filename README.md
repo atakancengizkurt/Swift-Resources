@@ -30,7 +30,8 @@ Türkçe Bloglar
 
 Türkçe Podcast'ler
 -------------
- - [swifthane](https://open.spotify.com/show/6ybOg9JrqbLBUDokL0R5eY)
+ - [Swifthane](https://open.spotify.com/show/6ybOg9JrqbLBUDokL0R5eY)
+ - [Farklı Düşün](https://open.spotify.com/show/3imVa0uYZnmgrqKHj3o8Sq?si=BXOu-8xTTYu5rI4VD3L26A&dl_branch=1)
  
 Yabancı Kaynaklar [Video]
 -------------
