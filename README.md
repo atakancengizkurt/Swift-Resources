@@ -22,7 +22,6 @@ Türkçe Bloglar
 -------------
 - [Kenan Atmaca](http://kenanatmaca.com/)
 - [iOS Cafe](https://ios.cafe/)
-- [iOS Notları](https://iosnotlari.com/)
 - [Sefa Ayçicek](http://sefaaycicek.com/)
 - [Barış Uyar](http://www.barisuyar.com)
 - [Kod5](http://kod5.org/category/programlama/swift/)
