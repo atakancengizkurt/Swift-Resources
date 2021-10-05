@@ -93,3 +93,12 @@ Yabancı Bloglar
  - [Raywenderlich](https://www.raywenderlich.com/category/swift)
  - [Andrew Bancroft](https://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
  
+Slack Grupları 
+-------------
+ - [NSİstanbul](https://nsistanbul.slack.com/)
+ - [Cocoaist](https://cocoaist.slack.com/)
+ - [Mobile Growth İstanbul](https://mobilegrowthist.slack.com/)
+ - [TurkishKit](https://turkishkit.slack.com/)
+ - [WWDC 2021](https://wwdc-2021.slack.com/)
+ - [Hacking with Swift](https://hackingwithswift.slack.com/)
+ - [iOS Dev Happy Hour](https://iosdevhappyhour.slack.com/)
