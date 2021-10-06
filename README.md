@@ -18,6 +18,7 @@ Türkçe Kaynaklar [Video]
  - [Mobile Growth Istanbul](https://www.youtube.com/c/MobileGrowthIstanbul)
  - [TALİP BÖKE](https://www.youtube.com/channel/UChVG3xjDbK2Dpdgx_Wc6OZw)
  - [Turker Bilge](https://www.youtube.com/c/TurkerBilge)
+ - [Muhammed Karakul](https://www.youtube.com/channel/UCk5IH4dGZLcKmsHIYatGMxw)
 
 Türkçe Bloglar 
 -------------
