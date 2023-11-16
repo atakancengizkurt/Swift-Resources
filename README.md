@@ -7,6 +7,7 @@ Swift için takip ettiğim kaynakları sizlerle paylaşıyorum. Faydalanmanız d
 Türkçe Kaynaklar [Video]
 -------------
  - [BTK Akademi](https://www.btkakademi.gov.tr/portal/)
+ - [Uğur Kılıç](https://www.youtube.com/@urklc)
  - [Late Night Muhabbetleri](https://www.youtube.com/channel/UCjVMKSrhru8KSirbfzzFHpw)
  - [Mobil Uygulama Geliştirme Xcode Swift](https://www.youtube.com/channel/UCdzM1zLR0g1aU6tqZ8xuGzA)
  - [Kerim Çağlar](https://www.youtube.com/channel/UCKwEqVrO0t4WYOmN5kvmczA)
