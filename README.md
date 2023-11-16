@@ -97,7 +97,11 @@ Yabancı Bloglar
  - [iOScreator](https://www.ioscreator.com/)
  - [Raywenderlich](https://www.raywenderlich.com/category/swift)
  - [Andrew Bancroft](https://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
- 
+
+Türkçe Telegram Grupları
+-------------
+ - [Essential Developer](https://t.me/essentialdeveloper)
+   
 Slack Grupları 
 -------------
  - [NSİstanbul](https://nsistanbul.slack.com/)
