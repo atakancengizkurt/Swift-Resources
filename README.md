@@ -36,7 +36,7 @@ Türkçe Podcast'ler
 
 Türkçe Telegram Grupları
 -------------
- -[Swift Akademi](http://t.me/swiftakademi)
+ - [Swift Akademi](http://t.me/swiftakademi)
  
 Yabancı Kaynaklar [Video]
 -------------
