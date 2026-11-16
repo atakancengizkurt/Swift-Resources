@@ -96,7 +96,7 @@ Yabancı Bloglar
  - [Swift With Majid](https://swiftwithmajid.com/)
  - [App Coda](http://www.appcoda.com/tutorials/ios/)
  - [iOScreator](https://www.ioscreator.com/)
- - [Raywenderlich](https://www.raywenderlich.com/category/swift)
+- [Kodeco (eski Raywenderlich)](https://www.kodeco.com/ios)
  - [Andrew Bancroft](https://www.andrewcbancroft.com/category/software-development/ios-mac/swift/)
 
 Yabancı Telegram Grupları
